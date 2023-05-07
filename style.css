@@ -1,3 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 header{
-    background-color: brown;
+    background-color: rgb(121, 255, 80);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    font-size: 24px;
+}
+.cabeçalho-lista-item{
+    display: inline-block;
+    margin: 0 28px;
 }
